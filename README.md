@@ -3,6 +3,8 @@ GazeMetrixAPIExample
 
 Example of a project using the GazeMetrix API
 #
+###Checkout the demo at http://gazemetrixapiexample.herokuapp.com/
+
 To run, do the following
 ####1. npm install
 
