@@ -1,0 +1,12 @@
+{
+  "name": "master.zip",
+  "_cacheHeaders": {
+    "Content-Length": "29219",
+    "Content-Type": "application/zip",
+    "Content-Disposition": "attachment; filename=jQCloud-master.zip"
+  },
+  "_source": "https://github.com/lucaong/jQCloud/archive/master.zip",
+  "_target": "*",
+  "_originalSource": "https://github.com/lucaong/jQCloud/archive/master.zip",
+  "_direct": true
+}
